@@ -1,10 +1,23 @@
-Title:       FFXIV Openers
-Description: A collection of standard openers for every combat job in Final Fantasy XIV.
-Keywords:    FFXIV, FF14, Opener, Rotation
-Build:       ST3 MarkdownPreview
-Author:      natyusha
+---
+# Metadata
+title:       FFXIV Openers
+description: A collection of standard openers for every combat job in Final Fantasy XIV.
+keywords:    FFXIV, FF14, Opener, Rotation
+author:      natyusha
 
-FFXIV OPENERS
+# Settings
+settings:
+  css:
+    markdown:
+      - ''
+  markdown_extensions:
+    - markdown.extensions.abbr
+    - markdown.extensions.toc:
+        permalink: false
+    - pymdownx.details
+---
+
+FFXIV Openers
 =============
 
 ### Tank

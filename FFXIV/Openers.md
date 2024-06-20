@@ -15,6 +15,7 @@ settings:
     - markdown.extensions.toc:
         permalink: false
     - pymdownx.details
+    - pymdownx.tilde
 ---
 
 FFXIV Openers

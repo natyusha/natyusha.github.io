@@ -9,6 +9,7 @@
     --pnk:#ea005e;
     --grn:#80cf00;
     --txt:#dedede;
+    --exp:#0f0f0f;
     --bg:#1c1c1c
 }
 
@@ -25,6 +26,7 @@ details[open] > summary::before {content:'↓\00a0'}
 details summary {font-size:1.25em;cursor:pointer}
 details:not(.extra) > p::before {display:inline-block;content:'🔗\00a0'}
 details.extra summary {font-size:0.95em}
+details > details, details > p {margin-left:-20px;padding-left:20px;background:var(--exp)}
 
 summary:hover, abbr:hover, a:hover {text-decoration:dotted underline}
 summary, abbr, a {text-decoration:none;user-select:none;color:var(--pnk)}

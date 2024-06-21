@@ -17,13 +17,14 @@ body {background-color:var(--bg);padding:20px 0 20px 20px;color:var(--txt);max-w
 h1 {border-bottom:none;color:var(--pnk);font-size:3em;margin:0}
 h3 {margin:30px 0 10px 0;font-size:2em}
 
-p {font-size:0.9em;margin:0}
+p {font-size:0.95em;margin:0}
 em {color:var(--grn)}
 
 details {font-size:1em;line-height:1.6}
-details[open] summary:before {content:'↓\00a0'}
+details[open] > summary::before {content:'↓\00a0'}
 details summary {font-size:1.25em;cursor:pointer}
-details[open] p::before {display:inline-block;content:'🔗\00a0'}
+details:not(.extra) > p::before {display:inline-block;content:'🔗\00a0'}
+details.extra summary {font-size:0.95em}
 
 summary:hover, abbr:hover, a:hover {text-decoration:dotted underline}
 summary, abbr, a {text-decoration:none;user-select:none;color:var(--pnk)}

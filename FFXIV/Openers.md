@@ -15,7 +15,6 @@ settings:
     - markdown.extensions.toc:
         permalink: false
     - pymdownx.details
-    - pymdownx.tilde
 ---
 
 FFXIV/Openers
@@ -73,7 +72,7 @@ Dawntrail: Patch 7.0 (Media Tour Build)
     ??? extra "High Ping Opener"
         ![RPR](img/RPR-HighPing.png "Reaper High Ping Opener")
 ??? "VPR"
-    [~~Lodestone~~](https://na.finalfantasyxiv.com/jobguide/viper/ "Lodestone Job Guide: Viper") / [Balance](https://www.thebalanceffxiv.com/jobs/melee/viper/ "Balance Guides: Viper") / [Icy Veins](https://www.icy-veins.com/ffxiv/viper-guide "Icy Veins Guides: Viper")  
+    [Lodestone](https://na.finalfantasyxiv.com/jobguide/viper/ "Lodestone Job Guide: Viper") / [Balance](https://www.thebalanceffxiv.com/jobs/melee/viper/ "Balance Guides: Viper") / [Icy Veins](https://www.icy-veins.com/ffxiv/viper-guide "Icy Veins Guides: Viper")  
     ![VPR](img/VPR.png "Viper Standard Opener")
 
 ### Ranged
@@ -100,7 +99,7 @@ Dawntrail: Patch 7.0 (Media Tour Build)
     [Lodestone](https://na.finalfantasyxiv.com/jobguide/redmage/ "Lodestone Job Guide: Red Mage") / [Balance](https://www.thebalanceffxiv.com/jobs/casters/red-mage/ "Balance Guides: Red Mage") / [Icy Veins](https://www.icy-veins.com/ffxiv/red-mage-guide "Icy Veins Guides: Red Mage")  
     ![RDM](img/RDM.png "Red Mage Standard Opener")
 ??? "PCT"
-    [~~Lodestone~~](https://na.finalfantasyxiv.com/jobguide/pictomancer/ "Lodestone Job Guide: Pictomancer") / [Balance](https://www.thebalanceffxiv.com/jobs/casters/pictomancer/ "Balance Guides: Pictomancer") / [Icy Veins](https://www.icy-veins.com/ffxiv/pictomancer-guide "Icy Veins Guides: Pictomancer")  
+    [Lodestone](https://na.finalfantasyxiv.com/jobguide/pictomancer/ "Lodestone Job Guide: Pictomancer") / [Balance](https://www.thebalanceffxiv.com/jobs/casters/pictomancer/ "Balance Guides: Pictomancer") / [Icy Veins](https://www.icy-veins.com/ffxiv/pictomancer-guide "Icy Veins Guides: Pictomancer")  
     ![PCT](img/PCT.png "Pictomancer Standard Opener")
 ??? "BLU"
     [Lodestone](https://na.finalfantasyxiv.com/jobguide/bluemage/ "Lodestone Job Guide: Blue Mage") / [Icy Veins](https://www.icy-veins.com/ffxiv/blue-mage-guide "Icy Veins Guides: Blue Mage")  

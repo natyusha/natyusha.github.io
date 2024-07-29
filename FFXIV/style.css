@@ -10,7 +10,7 @@
     --grn:#80cf00;
     --txt:#dedede;
     --exp:#0f0f0f;
-    --bg:#1c1c1c
+    --bg:#121213
 }
 
 body {background-color:var(--bg);padding:20px 0 20px 20px;color:var(--txt);max-width:none;height:100vh;margin:0}

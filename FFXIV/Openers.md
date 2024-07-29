@@ -19,7 +19,7 @@ settings:
 
 FFXIV/Openers
 =============
-Dawntrail: Patch 7.0 (Media Tour Build)
+Dawntrail: Patch 7.01
 
 ### Tank
 ??? "PLD"
@@ -56,10 +56,10 @@ Dawntrail: Patch 7.0 (Media Tour Build)
     ??? extra "Double Lunar Opener"
         ![MNK](img/MNK-2xLunar.png "Monk Double Lunar Opener")
 ??? "DRG"
-    [Lodestone](https://na.finalfantasyxiv.com/jobguide/dragoon/ "Lodestone Job Guide: Dragoon") / [Balance](https://www.thebalanceffxiv.com/jobs/melee/dragoon/ "Balance Guides: Dragoon") / [Icy Veins](https://www.icy-veins.com/ffxiv/dragoon-guide "Icy Veins Guides: Dragoon")   
+    [Lodestone](https://na.finalfantasyxiv.com/jobguide/dragoon/ "Lodestone Job Guide: Dragoon") / [Balance](https://www.thebalanceffxiv.com/jobs/melee/dragoon/ "Balance Guides: Dragoon") / [Icy Veins](https://www.icy-veins.com/ffxiv/dragoon-guide "Icy Veins Guides: Dragoon")  
     ![DRG](img/DRG.png "Dragoon Standard Opener")
 ??? "NIN"
-    [Lodestone](https://na.finalfantasyxiv.com/jobguide/ninja/ "Lodestone Job Guide: Ninja") / [Balance](https://www.thebalanceffxiv.com/jobs/melee/ninja/ "Balance Guides: Ninja") / [Icy Veins](https://www.icy-veins.com/ffxiv/ninja-guide "Icy Veins Guides: Ninja") / *Opener missing in high resolution*  
+    [Lodestone](https://na.finalfantasyxiv.com/jobguide/ninja/ "Lodestone Job Guide: Ninja") / [Balance](https://www.thebalanceffxiv.com/jobs/melee/ninja/ "Balance Guides: Ninja") / [Icy Veins](https://www.icy-veins.com/ffxiv/ninja-guide "Icy Veins Guides: Ninja")  
     ![NIN](img/NIN.png "Ninja Standard Opener")
     ??? extra "Mudra Cheatsheet"
         ![NIN Mudras](img/NIN-Mudras.png "Ninja Mudra Cheatsheet")
@@ -67,10 +67,8 @@ Dawntrail: Patch 7.0 (Media Tour Build)
     [Lodestone](https://na.finalfantasyxiv.com/jobguide/samurai/ "Lodestone Job Guide: Samurai") / [Balance](https://www.thebalanceffxiv.com/jobs/melee/samurai/ "Balance Guides: Samurai") / [Icy Veins](https://www.icy-veins.com/ffxiv/samurai-guide "Icy Veins Guides: Samurai")  
     ![SAM](img/SAM.png "Samurai Standard Opener")
 ??? "RPR"
-    [Lodestone](https://na.finalfantasyxiv.com/jobguide/reaper/ "Lodestone Job Guide: Reaper") / [Balance](https://www.thebalanceffxiv.com/jobs/melee/reaper/ "Balance Guides: Reaper") / [Icy Veins](https://www.icy-veins.com/ffxiv/reaper-guide "Icy Veins Guides: Reaper") / *Use the high ping opener if you can't double weave tinctures*  
+    [Lodestone](https://na.finalfantasyxiv.com/jobguide/reaper/ "Lodestone Job Guide: Reaper") / [Balance](https://www.thebalanceffxiv.com/jobs/melee/reaper/ "Balance Guides: Reaper") / [Icy Veins](https://www.icy-veins.com/ffxiv/reaper-guide "Icy Veins Guides: Reaper")  
     ![RPR](img/RPR.png "Reaper Standard Opener")
-    ??? extra "High Ping Opener"
-        ![RPR](img/RPR-HighPing.png "Reaper High Ping Opener")
 ??? "VPR"
     [Lodestone](https://na.finalfantasyxiv.com/jobguide/viper/ "Lodestone Job Guide: Viper") / [Balance](https://www.thebalanceffxiv.com/jobs/melee/viper/ "Balance Guides: Viper") / [Icy Veins](https://www.icy-veins.com/ffxiv/viper-guide "Icy Veins Guides: Viper")  
     ![VPR](img/VPR.png "Viper Standard Opener")

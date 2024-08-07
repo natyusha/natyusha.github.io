@@ -19,7 +19,7 @@ settings:
 
 FFXIV/Openers
 =============
-Dawntrail: Patch 7.01
+Dawntrail: Patch 7.05
 
 ### Tank
 ??? "PLD"
@@ -90,6 +90,8 @@ Dawntrail: Patch 7.01
 ??? "BLM"
     [Lodestone](https://na.finalfantasyxiv.com/jobguide/blackmage/ "Lodestone Job Guide: Black Mage") / [Balance](https://www.thebalanceffxiv.com/jobs/casters/black-mage/ "Balance Guides: Black Mage") / [Icy Veins](https://www.icy-veins.com/ffxiv/black-mage-guide "Icy Veins Guides: Black Mage")  
     ![BLM](img/BLM.png "Black Mage Standard Opener")
+    ??? extra "AoE Rotation"
+        ![BLM AoE](img/BLM-AoE.png "BLM AoE Rotation")
 ??? "SMN"
     [Lodestone](https://na.finalfantasyxiv.com/jobguide/summoner/ "Lodestone Job Guide: Summoner") / [Balance](https://www.thebalanceffxiv.com/jobs/casters/summoner/ "Balance Guides: Summoner") / [Icy Veins](https://www.icy-veins.com/ffxiv/summoner-guide "Icy Veins Guides: Summoner")  
     ![SMN](img/SMN.png "Summoner Standard Opener")

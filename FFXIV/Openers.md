@@ -19,7 +19,7 @@ settings:
 
 FFXIV/Openers
 =============
-Dawntrail: Patch 7.05
+Dawntrail: Patch 7.1
 
 ### Tank
 ??? "PLD"
@@ -34,6 +34,8 @@ Dawntrail: Patch 7.05
 ??? "GNB"
     [Lodestone](https://na.finalfantasyxiv.com/jobguide/gunbreaker/ "Lodestone Job Guide: Gunbreaker") / [Balance](https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/ "Balance Guides: Gunbreaker") / [Icy Veins](https://www.icy-veins.com/ffxiv/gunbreaker-guide "Icy Veins Guides: Gunbreaker")  
     ![GNB](img/GNB.png "Gunbreaker Standard Opener")
+    ??? extra "2.50 GCD Opener"
+        ![GNB](img/GNB-2.50.png "Gunbreaker 2.50 GCD Opener")
 
 ### Healer
 ??? "WHM"

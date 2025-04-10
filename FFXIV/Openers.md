@@ -19,7 +19,7 @@ settings:
 
 FFXIV/Openers
 =============
-Dawntrail: Patch 7.1
+Dawntrail: Patch 7.2
 
 ### Tank
 ??? "PLD"
